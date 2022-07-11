@@ -1,11 +1,11 @@
-# Connect
-Live Website Whole Video
-https://drive.google.com/drive/folders/1Enq9IwVHoGXeoXj0IRCIvTPXFdl8ocAr?usp=sharing
---Connect | Users Can Read News and Post their Opinion (Authenticated User)
---Based on the Laravel PHP framework using HTML, CSS, Tailwind, and 
-  Javascript as the frontend and Postgres as the database.
---Users can read or search any news in search bar, news data is fetched from the Newsapi.
-  Database used is Postgres (SQL) Authentication and validation using laravel model
+<b># Connect
+<b>Live Website Whole Video<b><br>
+https://drive.google.com/drive/folders/1Enq9IwVHoGXeoXj0IRCIvTPXFdl8ocAr?usp=sharing<br>
+--Connect | Users Can Read News and Post their Opinion (Authenticated User)<br>
+--Based on the Laravel PHP framework using HTML, CSS, Tailwind, and <br>
+  Javascript as the frontend and Postgres as the database.<br>
+--Users can read or search any news in search bar, news data is fetched from the Newsapi.<br>
+  Database used is Postgres (SQL) Authentication and validation using laravel model<br>
 
 Below are the images of the Connect website
 
@@ -53,5 +53,5 @@ dashboard user can read or search any news
 
 ![Dashboard](https://user-images.githubusercontent.com/71204824/178308617-9eae3c86-3c31-4f84-a6ac-3136ca01ca0a.png)
 ![Searched_news](https://user-images.githubusercontent.com/71204824/178308592-943e2462-bf0e-4c33-bfd7-68842461d8dd.png)
-![Searchednews2](https://user-images.githubusercontent.com/71204824/178308604-ca16d2df-450c-4e6e-b616-edb84fb392da.png)
+![Searchednews2](https://user-images.githubusercontent.com/71204824/178308604-ca16d2df-450c-4e6e-b616-edb84fb392da.png)</b>
 
