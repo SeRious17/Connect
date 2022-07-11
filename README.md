@@ -1,4 +1,6 @@
 # Connect
+Live Website Whole Video
+https://drive.google.com/drive/folders/1Enq9IwVHoGXeoXj0IRCIvTPXFdl8ocAr?usp=sharing
 --Connect | Users Can Read News and Post their Opinion (Authenticated User)
 --Based on the Laravel PHP framework using HTML, CSS, Tailwind, and 
   Javascript as the frontend and Postgres as the database.
